@@ -1,0 +1,16 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "suryaadithya",
+  "license": "ISC",
+  "dependencies": {
+    "@opensearch-project/opensearch": "^2.12.0",
+    "split-file": "^2.3.0"
+  }
+}
